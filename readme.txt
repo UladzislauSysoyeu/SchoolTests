@@ -4,4 +4,4 @@ we can:
 - save results
 - create tests with built-in Test Creator.
 
-Program created on Python (tkinter).
+Program created using Python (tkinter).
