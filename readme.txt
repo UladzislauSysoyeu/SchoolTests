@@ -1,4 +1,4 @@
-Math tests for Elementary School. 
+Math tests for School. 
 we can:
 - load tests
 - save results
